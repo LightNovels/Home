@@ -23,7 +23,7 @@ jobs:
         pip install -r requirements.txt
     - name: Clone novels library
       run: |
-        git clone -b novels ${{ github.repositoryUrl }} temp
+        git clone -b novels https://github.com/${{ github.repository }}.git temp
     - name: Refresh README.md
       run: |
         python main.py
