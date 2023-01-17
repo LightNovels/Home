@@ -2,9 +2,6 @@ name: AutoUpdateIndex
 
 on:
   push:
-    branches:
-      - novels
-      - master
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
