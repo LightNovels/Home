@@ -6,8 +6,7 @@
 ## 作者列表
 | [佐伯さん](#user-content-佐伯さん) | [鴉ぴえろ](#user-content-鴉ぴえろ) | [ハヤケン](#user-content-ハヤケン) | [夕蜜柑](#user-content-夕蜜柑) | [安里アサト](#user-content-安里アサト) |
 | :--: | :--: | :--: | :--: | :--: |
-| | 竹町 |
-(#user-content-竹町) |
+| [竹町](#user-content-竹町) |
 
 ## 佐伯さん
 
