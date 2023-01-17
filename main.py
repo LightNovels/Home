@@ -45,7 +45,7 @@ if __name__ == '__main__':
         for root, _, fs in os.walk(f'./temp/{dir}'):
             count = 1
             for book in fs:
-                if book.endswith('.pdf')
+                if book.endswith('.pdf'):
                     booklink = f'https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{quote(dir)}/{quote(book)}'
                     bookname = book.replace(f'{dir} - ', '')
                     rendered += f'| {count} | [{bookname}]({booklink}) |\n'
