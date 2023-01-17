@@ -27,7 +27,7 @@ if __name__ == '__main__':
         dirs[i] = f'[{dirs[i]}](#user-content-{dirs[i]})'
     if len(dirs) > 5:
         rendered += f'| {dirs[0]} | {dirs[1]} | {dirs[2]} | {dirs[3]} | {dirs[4]} |\n| :--: | :--: | :--: | :--: | :--: |\n'
-        for num in len(5, len(dirs), 5):
+        for num in range(5, len(dirs), 5):
             try:
                 tmp = str(dirs[num:num+5]).replace('[', '| ').replace(']',
                                                                       ' |\n').replace("'", '').replace(', ', ' | ')
