@@ -1,4 +1,5 @@
 import os
+from urllib.parse import quote
 
 template_head = '''# LightNovels 轻小说
 
@@ -44,7 +45,7 @@ if __name__ == '__main__':
         for root, _, fs in os.walk(f'./temp/{dir}'):
             count = 1
             for book in fs:
-                booklink = f'https://lightnovels.github.io/Viewer/?file=https://https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{dir}/{book}'
+                booklink = f'https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{quote(dir)}/{quote(book)}'
                 bookname = book.replace(f'{dir} - ', '')
                 rendered += f'| {count} | [{bookname}]({booklink}) |\n'
                 count += 1
