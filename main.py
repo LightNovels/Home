@@ -24,7 +24,7 @@ if __name__ == '__main__':
     except Exception:
         pass
     for i in range(len(dirs)):
-        dirs[i] = f'[{dirs[i]}](#user-content-{dirs[i]})'
+        dirs[i] = f'[{dirs[i]}](#{dirs[i]})'
     if len(dirs) > 5:
         rendered += f'| {dirs[0]} | {dirs[1]} | {dirs[2]} | {dirs[3]} | {dirs[4]} |\n| :--: | :--: | :--: | :--: | :--: |\n'
         for num in range(5, len(dirs), 5):
