@@ -6,7 +6,7 @@
 ## 作者列表
 | [佐伯さん](#user-content-佐伯さん) | [鴉ぴえろ](#user-content-鴉ぴえろ) | [ハヤケン](#user-content-ハヤケン) | [夕蜜柑](#user-content-夕蜜柑) | [安里アサト](#user-content-安里アサト) |
 | :--: | :--: | :--: | :--: | :--: |
-| [竹町](#user-content-竹町) | [逢沢大介](#user-content-逢沢大介) |
+| [棚架ユウ](#user-content-棚架ユウ) | [竹町](#user-content-竹町) | [逢沢大介](#user-content-逢沢大介) |
 
 ## 佐伯さん
 
@@ -69,6 +69,16 @@
 | 9 | [86-不存在的战区- Ep.7 -Mist-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.7%20-Mist-.pdf) |
 | 10 | [86-不存在的战区- Ep.8 -Gun smoke on the water-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.8%20-Gun%20smoke%20on%20the%20water-.pdf) |
 | 11 | [86-不存在的战区- Ep.9 -Valkyrie has landed-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.9%20-Valkyrie%20has%20landed-.pdf) |
+
+## 棚架ユウ
+
+| 序号 | 书籍 |
+| ---- | ---- |
+| 1 | [转生就是剑 1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%201.pdf) |
+| 2 | [转生就是剑 2.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%202.pdf) |
+| 3 | [转生就是剑 3.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%203.pdf) |
+| 4 | [转生就是剑 4.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%204.pdf) |
+| 5 | [转生就是剑 5.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%205.pdf) |
 
 ## 竹町
 
