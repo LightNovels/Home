@@ -46,7 +46,7 @@ if __name__ == '__main__':
         rendered += '| :--: | :--: | :--: | :--: | :--: |\n| | | | | |\n\n'
     novels = {} 
     for dir in origin_dirs:
-        rendered += f'\n## {dir}\n\n| 序号 | 书名 |\n| ---- | ---- |\n'
+        rendered += f'\n## {dir}\n\n| 序号 | 书籍 |\n| ---- | ---- |\n'
         # rendered.replace(dir, f'[{dir}](#{dir})')
         for root, _, fs in os.walk(f'./temp/{dir}'):
             count = 1
