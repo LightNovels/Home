@@ -21,6 +21,15 @@ jobs:
     - name: Install requirements
       run: |
         pip install -r requirements.txt
+    - name: Setup SSH
+      env:
+        ACTION_DEPLOY_KEY: ${{ secrets.SSH_KEY }}
+      run: |
+        mkdir -p ~/.ssh/
+        echo "$ACTION_DEPLOY_KEY" > ~/.ssh/id_rsa
+        chmod 700 ~/.ssh
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan github.com >> ~/.ssh/known_hosts
     - name: Clone novels library
       run: |
         git clone -b novels https://github.com/${{ github.repository }}.git temp
@@ -29,12 +38,14 @@ jobs:
         python main.py
     - name: Commit
       run: |
+        git remote set-url origin git@github.com:LightNovels/Home.git
         git config --global user.email lightnovels@lightnovels.org
         git config --global user.name lightnovels
         git add .
         git commit -m "Refreshed" -a
-    - name: GitHub Push
-      uses: ad-m/github-push-action@v0.6.0
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        branch: ${{ github.ref }}
+        git push -u origin master
+    # - name: GitHub Push
+    #   uses: ad-m/github-push-action@v0.6.0
+    #   with:
+    #     github_token: ${{ secrets.GITHUB_TOKEN }}
+    #     branch: ${{ github.ref }}
