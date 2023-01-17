@@ -5,8 +5,8 @@
 <!-- Authors tables -->
 ## 作者列表
 | [佐伯さん](#user-content-佐伯さん) | [鴉ぴえろ](#user-content-鴉ぴえろ) | [ハヤケン](#user-content-ハヤケン) | [夕蜜柑](#user-content-夕蜜柑) | [安里アサト](#user-content-安里アサト) |
-| ---- | ---- | ---- | ---- | ---- |
-| [竹町](#user-content-竹町) |
+| :--: | :--: | :--: | :--: | :--: |
+| [竹町](#user-content-竹町) | [逢沢大介](#user-content-逢沢大介) |
 
 ## 佐伯さん
 
@@ -77,4 +77,13 @@
 | 1 | [间谍教室 1“花园”百合.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%AB%B9%E7%94%BA/%E7%AB%B9%E7%94%BA%20-%20%E9%96%93%E8%AB%9C%E6%95%99%E5%AE%A4%201%E3%80%8C%E8%8A%B1%E5%9C%92%E3%80%8D%E7%99%BE%E5%90%88.pdf) |
 | 2 | [间谍教室 2“爱娘”葛蕾特.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%AB%B9%E7%94%BA/%E7%AB%B9%E7%94%BA%20-%20%E9%96%93%E8%AB%9C%E6%95%99%E5%AE%A4%202%E3%80%8C%E6%84%9B%E5%A8%98%E3%80%8D%E8%91%9B%E8%95%BE%E7%89%B9.pdf) |
 | 3 | [间谍教室 3“忘我”安妮特.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%AB%B9%E7%94%BA/%E7%AB%B9%E7%94%BA%20-%20%E9%96%93%E8%AB%9C%E6%95%99%E5%AE%A4%203%E3%80%8C%E5%BF%98%E6%88%91%E3%80%8D%E5%AE%89%E5%A6%AE%E7%89%B9.pdf) |
+
+## 逢沢大介
+
+| 序号 | 书籍 |
+| ---- | ---- |
+| 1 | [我想成为影之强者！1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B%20-%20%E6%88%91%E6%83%B3%E6%88%90%E7%82%BA%E5%BD%B1%E4%B9%8B%E5%BC%B7%E8%80%85%EF%BC%811.pdf) |
+| 2 | [我想成为影之强者！2.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B%20-%20%E6%88%91%E6%83%B3%E6%88%90%E7%82%BA%E5%BD%B1%E4%B9%8B%E5%BC%B7%E8%80%85%EF%BC%812.pdf) |
+| 3 | [我想成为影之强者！3.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B%20-%20%E6%88%91%E6%83%B3%E6%88%90%E7%82%BA%E5%BD%B1%E4%B9%8B%E5%BC%B7%E8%80%85%EF%BC%813.pdf) |
+| 4 | [我想成为影之强者！4.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B%20-%20%E6%88%91%E6%83%B3%E6%88%90%E7%82%BA%E5%BD%B1%E4%B9%8B%E5%BC%B7%E8%80%85%EF%BC%814.pdf) |
 
