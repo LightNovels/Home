@@ -1,4 +1,5 @@
 import os
+from zhconv import convert
 from urllib.parse import quote
 
 template_head = '''# LightNovels 轻小说
@@ -49,7 +50,7 @@ if __name__ == '__main__':
             for book in fs:
                 if book.endswith('.pdf'):
                     booklink = f'https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{quote(dir)}/{quote(book)}'
-                    bookname = book.replace(f'{dir} - ', '')
+                    bookname = convert(book.replace(f'{dir} - ', ''), 'zh-cn')
                     rendered += f'| {count} | [{bookname}]({booklink}) |\n'
                     count += 1
 
