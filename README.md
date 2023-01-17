@@ -4,7 +4,7 @@
 
 <!-- Authors tables -->
 ## 作者列表
-| [佐伯さん](#user-content-佐伯さん) | [鴉ぴえろ](#user-content-鴉ぴえろ) | [ハヤケン](#user-content-ハヤケン) | [竹町](#user-content-竹町) | |
+| [佐伯さん](#user-content-佐伯さん) | [鴉ぴえろ](#user-content-鴉ぴえろ) | [ハヤケン](#user-content-ハヤケン) | [安里アサト](#user-content-安里アサト) | [竹町](#user-content-竹町) |
 | :--: | :--: | :--: | :--: | :--: |
 | | | | | |
 
@@ -35,6 +35,22 @@
 | 1 | [英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 01.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2001.pdf) |
 | 2 | [英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 02.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2002.pdf) |
 | 3 | [英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 03.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2003.pdf) |
+
+## 安里アサト
+
+| 序号 | 书名 |
+| ---- | ---- |
+| 1 | [86-不存在的战区- Ep.1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.1.pdf) |
+| 2 | [86-不存在的战区- Ep.10 -早熟的碎片-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.10%20-%E6%97%A9%E7%86%9F%E7%9A%84%E7%A2%8E%E7%89%87-.pdf) |
+| 3 | [86-不存在的战区- Ep.11 -Dies passionis-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.11%20-Dies%20passionis-.pdf) |
+| 4 | [86-不存在的战区- Ep.2 -Run through the battlefront-（上）.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.2%20-Run%20through%20the%20battlefront-%EF%BC%88%E4%B8%8A%EF%BC%89.pdf) |
+| 5 | [86-不存在的战区- Ep.3 -Run through the battlefront-（下）.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.3%20-Run%20through%20the%20battlefront-%EF%BC%88%E4%B8%8B%EF%BC%89.pdf) |
+| 6 | [86-不存在的战区- Ep.4 -Under pressure-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.4%20-Under%20pressure-.pdf) |
+| 7 | [86-不存在的战区- Ep.5 -死神，你莫骄傲-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.5%20-%E6%AD%BB%E7%A5%9E%EF%BC%8C%E4%BD%A0%E8%8E%AB%E9%A9%95%E5%82%B2-.pdf) |
+| 8 | [86-不存在的战区- Ep.6 -旭日不升，是为永夜-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.6%20-%E6%97%AD%E6%97%A5%E4%B8%8D%E6%98%87%EF%BC%8C%E6%98%AF%E7%82%BA%E6%B0%B8%E5%A4%9C-.pdf) |
+| 9 | [86-不存在的战区- Ep.7 -Mist-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.7%20-Mist-.pdf) |
+| 10 | [86-不存在的战区- Ep.8 -Gun smoke on the water-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.8%20-Gun%20smoke%20on%20the%20water-.pdf) |
+| 11 | [86-不存在的战区- Ep.9 -Valkyrie has landed-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.9%20-Valkyrie%20has%20landed-.pdf) |
 
 ## 竹町
 
