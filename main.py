@@ -28,11 +28,11 @@ if __name__ == '__main__':
     if len(dirs) > 5:
         rendered += f'| {dirs[0]} | {dirs[1]} | {dirs[2]} | {dirs[3]} | {dirs[4]} |\n| :--: | :--: | :--: | :--: | :--: |\n'
         for num in range(5, len(dirs), 5):
-            try:
+            if num + 5 < len(dirs):
                 tmp = str(dirs[num:num+5]).replace('[\'', '| ').replace('\']',
                                                                       ' |\n').replace("'", '').replace(', ', ' | ')
                 rendered += tmp
-            except IndexError:
+            else:
                 tmp = str(dirs[num:]).replace('[\'', '| ').replace(
                     '\']', ' |\n\n').replace("'", '').replace(', ', ' | ')
                 tmp += ' |' * (5 - tmp.count(' |')) + '\n'
