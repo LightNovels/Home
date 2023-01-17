@@ -17,6 +17,8 @@ rendered = ''''''
 if __name__ == '__main__':
     origin_dirs = os.listdir('./temp')
     dirs = os.listdir('./temp')
+    dirs.remove('.git')
+    origin_dirs.remove('.git')
     for i in range(len(dirs)):
         dirs[i] = f'[{dirs[i]}](#{dirs[i]})'
     if len(dirs) > 5:
