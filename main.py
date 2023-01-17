@@ -45,10 +45,11 @@ if __name__ == '__main__':
         for root, _, fs in os.walk(f'./temp/{dir}'):
             count = 1
             for book in fs:
-                booklink = f'https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{quote(dir)}/{quote(book)}'
-                bookname = book.replace(f'{dir} - ', '')
-                rendered += f'| {count} | [{bookname}]({booklink}) |\n'
-                count += 1
+                if book.endswith('.pdf')
+                    booklink = f'https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{quote(dir)}/{quote(book)}'
+                    bookname = book.replace(f'{dir} - ', '')
+                    rendered += f'| {count} | [{bookname}]({booklink}) |\n'
+                    count += 1
 
     with open('README.md', 'wt', encoding='utf8') as f:
         f.write(template_head + rendered + template_tail)
