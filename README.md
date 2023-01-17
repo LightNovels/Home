@@ -4,11 +4,20 @@
 
 <!-- Authors tables -->
 ## 作者列表
-| [佐伯さん](#user-content-佐伯さん) | [鴉ぴえろ](#user-content-鴉ぴえろ) | [ハヤケン](#user-content-ハヤケン) | [夕蜜柑](#user-content-夕蜜柑) | [安里アサト](#user-content-安里アサト) |
+| [Ceez](#user-content-Ceez) | [佐伯さん](#user-content-佐伯さん) | [鴉ぴえろ](#user-content-鴉ぴえろ) | [ハヤケン](#user-content-ハヤケン) | [月夜淚](#user-content-月夜淚) |
 | :--: | :--: | :--: | :--: | :--: |
-| [棚架ユウ](#user-content-棚架ユウ) | [竹町](#user-content-竹町) | [逢沢大介](#user-content-逢沢大介) |
+| [夕蜜柑](#user-content-夕蜜柑) | [安里アサト](#user-content-安里アサト) | [棚架ユウ](#user-content-棚架ユウ) | [竹町](#user-content-竹町) | [逢沢大介](#user-content-逢沢大介) |
 
- | |
+
+## Ceez
+
+| 序号 | 书籍 |
+| ---- | ---- |
+| 1 | [里亚德录大地1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B01.pdf) |
+| 2 | [里亚德录大地2.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B02.pdf) |
+| 3 | [里亚德录大地3.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B03.pdf) |
+| 4 | [里亚德录大地4.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B04.pdf) |
+| 5 | [里亚德录大地5.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B05.pdf) |
 
 ## 佐伯さん
 
@@ -36,6 +45,20 @@
 | 1 | [英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 01.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2001.pdf) |
 | 2 | [英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 02.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2002.pdf) |
 | 3 | [英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 03.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2003.pdf) |
+
+## 月夜淚
+
+| 序号 | 书籍 |
+| ---- | ---- |
+| 1 | [回复术士的重启人生～即死魔法与复制技能的极致回复术～ 01.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E7%9A%84%E9%87%8D%E5%95%9F%E4%BA%BA%E7%94%9F%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E8%88%87%E8%A4%87%E8%A3%BD%E6%8A%80%E8%83%BD%E7%9A%84%E6%A5%B5%E8%87%B4%E5%9B%9E%E5%BE%A9%E8%A1%93%EF%BD%9E%2001.pdf) |
+| 2 | [回复术士的重启人生～即死魔法与复制技能的极致回复术～ 02.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E7%9A%84%E9%87%8D%E5%95%9F%E4%BA%BA%E7%94%9F%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E8%88%87%E8%A4%87%E8%A3%BD%E6%8A%80%E8%83%BD%E7%9A%84%E6%A5%B5%E8%87%B4%E5%9B%9E%E5%BE%A9%E8%A1%93%EF%BD%9E%2002.pdf) |
+| 3 | [回复术士的重启人生～即死魔法与复制技能的极致回复术～ 03.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E7%9A%84%E9%87%8D%E5%95%9F%E4%BA%BA%E7%94%9F%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E8%88%87%E8%A4%87%E8%A3%BD%E6%8A%80%E8%83%BD%E7%9A%84%E6%A5%B5%E8%87%B4%E5%9B%9E%E5%BE%A9%E8%A1%93%EF%BD%9E%2003.pdf) |
+| 4 | [回复术士的重启人生～即死魔法与复制技能的极致回复术～ 04.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E7%9A%84%E9%87%8D%E5%95%9F%E4%BA%BA%E7%94%9F%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E8%88%87%E8%A4%87%E8%A3%BD%E6%8A%80%E8%83%BD%E7%9A%84%E6%A5%B5%E8%87%B4%E5%9B%9E%E5%BE%A9%E8%A1%93%EF%BD%9E%2004.pdf) |
+| 5 | [回复术士的重启人生～即死魔法与复制技能的极致回复术～ 05.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E7%9A%84%E9%87%8D%E5%95%9F%E4%BA%BA%E7%94%9F%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E8%88%87%E8%A4%87%E8%A3%BD%E6%8A%80%E8%83%BD%E7%9A%84%E6%A5%B5%E8%87%B4%E5%9B%9E%E5%BE%A9%E8%A1%93%EF%BD%9E%2005.pdf) |
+| 6 | [回复术士的重启人生～即死魔法与复制技能的极致回复术～ 06.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E7%9A%84%E9%87%8D%E5%95%9F%E4%BA%BA%E7%94%9F%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E8%88%87%E8%A4%87%E8%A3%BD%E6%8A%80%E8%83%BD%E7%9A%84%E6%A5%B5%E8%87%B4%E5%9B%9E%E5%BE%A9%E8%A1%93%EF%BD%9E%2006.pdf) |
+| 7 | [回复术士的重启人生～即死魔法与复制技能的极致回复术～ 07.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E7%9A%84%E9%87%8D%E5%95%9F%E4%BA%BA%E7%94%9F%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E8%88%87%E8%A4%87%E8%A3%BD%E6%8A%80%E8%83%BD%E7%9A%84%E6%A5%B5%E8%87%B4%E5%9B%9E%E5%BE%A9%E8%A1%93%EF%BD%9E%2007.pdf) |
+| 8 | [回复术士的重启人生～即死魔法与复制技能的极致回复术～ 08.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E7%9A%84%E9%87%8D%E5%95%9F%E4%BA%BA%E7%94%9F%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E8%88%87%E8%A4%87%E8%A3%BD%E6%8A%80%E8%83%BD%E7%9A%84%E6%A5%B5%E8%87%B4%E5%9B%9E%E5%BE%A9%E8%A1%93%EF%BD%9E%2008.pdf) |
+| 9 | [回复术士的重启人生～即死魔法与复制技能的极致回复术～ 09.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E5%9B%9E%E5%BE%A9%E8%A1%93%E5%A3%AB%E7%9A%84%E9%87%8D%E5%95%9F%E4%BA%BA%E7%94%9F%EF%BD%9E%E5%8D%B3%E6%AD%BB%E9%AD%94%E6%B3%95%E8%88%87%E8%A4%87%E8%A3%BD%E6%8A%80%E8%83%BD%E7%9A%84%E6%A5%B5%E8%87%B4%E5%9B%9E%E5%BE%A9%E8%A1%93%EF%BD%9E%2009.pdf) |
 
 ## 夕蜜柑
 
