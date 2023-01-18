@@ -35,7 +35,7 @@ if __name__ == '__main__':
             else:
                 tmp = str(dirs[num:]).replace('[\'', '| ').replace(
                     '\']', ' |').replace("'", '').replace(', ', ' | ')
-                tmp += ' |' * (5 - tmp.count(' |')) + '\n\n'
+                tmp += ' N/A |' * (5 - tmp.count(' |')) + '\n\n'
                 rendered += tmp
     else:
         authors = {}
