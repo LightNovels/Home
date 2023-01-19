@@ -56,7 +56,7 @@ if __name__ == '__main__':
                 if book.endswith('.pdf'):
                     booklink = f'https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{quote(dir)}/{quote(book)}'
                     bookname = convert(book.replace(f'{dir} - ', ''), 'zh-cn')
-                    bookcover = f'![{bookname}](https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{quote(dir)}/{quote(book.replace(".pdf", ".jpg"))})'
+                    bookcover = f'<img alt="{str(bookname).replace(".pdf", "")}" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{quote(dir)}/{quote(book.replace(".pdf", ".jpg"))}" width="300px">'
                     rendered += f'| {bookcover} | [{bookname}]({booklink}) |\n'
                     count += 1
 
