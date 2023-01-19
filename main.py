@@ -47,7 +47,7 @@ if __name__ == '__main__':
         rendered += '| :--: | :--: | :--: | :--: | :--: |\n| | | | | |\n\n'
     novels = {} 
     for dir in origin_dirs:
-        rendered += f'\n## {dir}\n\n| 序号 | 书籍 |\n| ---- | ---- |\n'
+        rendered += f'\n## {dir}\n\n| 封面 | 书籍 |\n| ---- | ---- |\n'
         # rendered.replace(dir, f'[{dir}](#{dir})')
         for root, _, fs in os.walk(f'./temp/{dir}'):
             count = 1
@@ -56,7 +56,8 @@ if __name__ == '__main__':
                 if book.endswith('.pdf'):
                     booklink = f'https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{quote(dir)}/{quote(book)}'
                     bookname = convert(book.replace(f'{dir} - ', ''), 'zh-cn')
-                    rendered += f'| {count} | [{bookname}]({booklink}) |\n'
+                    bookcover = f'![{bookname}](https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/{quote(dir)}/{quote(book.replace(".pdf", ".jpg"))})'
+                    rendered += f'| {bookcover} | [{bookname}]({booklink}) |\n'
                     count += 1
 
     with open('README.md', 'wt', encoding='utf8') as f:
