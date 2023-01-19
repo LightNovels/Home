@@ -5,7 +5,7 @@
 <!-- Authors tables -->
 ## 作者列表
 | [Ceez](#Ceez) | [佐伯さん](#佐伯さん) | [鴉ぴえろ](#鴉ぴえろ) | [ハヤケン](#ハヤケン) | [理不盡な孫の手](#理不盡な孫の手) |
-| --- | --- | --- | --- | --- |
+| ---- | ---- | ---- | ---- | ---- |
 | [月夜淚](#月夜淚) | [川原砾](#川原砾) | [森田季节](#森田季节) | [榎宫佑](#榎宫佑) | [夕蜜柑](#夕蜜柑) |
 | [羊太郎](#羊太郎) | [安里アサト](#安里アサト) | [棚架ユウ](#棚架ユウ) | [竹町](#竹町) | [长月达平](#长月达平) |
 | [逢沢大介](#逢沢大介) | [白石定規](#白石定規) | N/A | N/A | N/A |
@@ -14,7 +14,7 @@
 ## Ceez
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="里亚德录大地1" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B01.jpg" width="300px"> | [里亚德录大地1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B01.pdf) |
 | <img alt="里亚德录大地2" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B02.jpg" width="300px"> | [里亚德录大地2.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B02.pdf) |
 | <img alt="里亚德录大地3" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B03.jpg" width="300px"> | [里亚德录大地3.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/Ceez/Ceez%20-%20%E9%87%8C%E4%BA%9E%E5%BE%B7%E9%8C%84%E5%A4%A7%E5%9C%B03.pdf) |
@@ -24,7 +24,7 @@
 ## 佐伯さん
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="关于邻家的天使大人不知不觉把我惯成了废人这档子事 01" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93%20-%20%E5%85%B3%E4%BA%8E%E9%82%BB%E5%AE%B6%E7%9A%84%E5%A4%A9%E4%BD%BF%E5%A4%A7%E4%BA%BA%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E6%8A%8A%E6%88%91%E6%83%AF%E6%88%90%E4%BA%86%E5%BA%9F%E4%BA%BA%E8%BF%99%E6%A1%A3%E5%AD%90%E4%BA%8B%2001.jpg" width="300px"> | [关于邻家的天使大人不知不觉把我惯成了废人这档子事 01.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93%20-%20%E5%85%B3%E4%BA%8E%E9%82%BB%E5%AE%B6%E7%9A%84%E5%A4%A9%E4%BD%BF%E5%A4%A7%E4%BA%BA%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E6%8A%8A%E6%88%91%E6%83%AF%E6%88%90%E4%BA%86%E5%BA%9F%E4%BA%BA%E8%BF%99%E6%A1%A3%E5%AD%90%E4%BA%8B%2001.pdf) |
 | <img alt="关于邻家的天使大人不知不觉把我惯成了废人这档子事 02" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93%20-%20%E5%85%B3%E4%BA%8E%E9%82%BB%E5%AE%B6%E7%9A%84%E5%A4%A9%E4%BD%BF%E5%A4%A7%E4%BA%BA%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E6%8A%8A%E6%88%91%E6%83%AF%E6%88%90%E4%BA%86%E5%BA%9F%E4%BA%BA%E8%BF%99%E6%A1%A3%E5%AD%90%E4%BA%8B%2002.jpg" width="300px"> | [关于邻家的天使大人不知不觉把我惯成了废人这档子事 02.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93%20-%20%E5%85%B3%E4%BA%8E%E9%82%BB%E5%AE%B6%E7%9A%84%E5%A4%A9%E4%BD%BF%E5%A4%A7%E4%BA%BA%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E6%8A%8A%E6%88%91%E6%83%AF%E6%88%90%E4%BA%86%E5%BA%9F%E4%BA%BA%E8%BF%99%E6%A1%A3%E5%AD%90%E4%BA%8B%2002.pdf) |
 | <img alt="关于邻家的天使大人不知不觉把我惯成了废人这档子事 03" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93%20-%20%E5%85%B3%E4%BA%8E%E9%82%BB%E5%AE%B6%E7%9A%84%E5%A4%A9%E4%BD%BF%E5%A4%A7%E4%BA%BA%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E6%8A%8A%E6%88%91%E6%83%AF%E6%88%90%E4%BA%86%E5%BA%9F%E4%BA%BA%E8%BF%99%E6%A1%A3%E5%AD%90%E4%BA%8B%2003.jpg" width="300px"> | [关于邻家的天使大人不知不觉把我惯成了废人这档子事 03.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93/%E4%BD%90%E4%BC%AF%E3%81%95%E3%82%93%20-%20%E5%85%B3%E4%BA%8E%E9%82%BB%E5%AE%B6%E7%9A%84%E5%A4%A9%E4%BD%BF%E5%A4%A7%E4%BA%BA%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A7%89%E6%8A%8A%E6%88%91%E6%83%AF%E6%88%90%E4%BA%86%E5%BA%9F%E4%BA%BA%E8%BF%99%E6%A1%A3%E5%AD%90%E4%BA%8B%2003.pdf) |
@@ -36,7 +36,7 @@
 ## 鴉ぴえろ
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="转生王女与天才千金的魔法革命 1" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D%20-%20%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD%201.jpg" width="300px"> | [转生王女与天才千金的魔法革命 1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D%20-%20%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD%201.pdf) |
 | <img alt="转生王女与天才千金的魔法革命 2" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D%20-%20%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD%202.jpg" width="300px"> | [转生王女与天才千金的魔法革命 2.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D%20-%20%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD%202.pdf) |
 | <img alt="转生王女与天才千金的魔法革命 3" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D%20-%20%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD%203.jpg" width="300px"> | [转生王女与天才千金的魔法革命 3.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D/%E9%B4%89%E3%81%B4%E3%81%88%E3%82%8D%20-%20%E8%BD%AC%E7%94%9F%E7%8E%8B%E5%A5%B3%E4%B8%8E%E5%A4%A9%E6%89%8D%E5%8D%83%E9%87%91%E7%9A%84%E9%AD%94%E6%B3%95%E9%9D%A9%E5%91%BD%203.pdf) |
@@ -46,7 +46,7 @@
 ## ハヤケン
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 01" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2001.jpg" width="300px"> | [英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 01.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2001.pdf) |
 | <img alt="英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 02" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2002.jpg" width="300px"> | [英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 02.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2002.pdf) |
 | <img alt="英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 03" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2003.jpg" width="300px"> | [英雄王，为了穷尽武道而转生～而后成为世界最强见习骑士♀～ 03.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3/%E3%83%8F%E3%83%A4%E3%82%B1%E3%83%B3%20-%20%E8%8B%B1%E9%9B%84%E7%8E%8B%EF%BC%8C%E7%82%BA%E4%BA%86%E7%AA%AE%E7%9B%A1%E6%AD%A6%E9%81%93%E8%80%8C%E8%BD%89%E7%94%9F%EF%BD%9E%E8%80%8C%E5%BE%8C%E6%88%90%E7%82%BA%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%B7%E8%A6%8B%E7%BF%92%E9%A8%8E%E5%A3%AB%E2%99%80%EF%BD%9E%2003.pdf) |
@@ -54,7 +54,7 @@
 ## 理不盡な孫の手
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="无职转生～到了异世界就拿出真本事～1" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B%20-%20%E7%84%A1%E8%81%B7%E8%BD%89%E7%94%9F%EF%BD%9E%E5%88%B0%E4%BA%86%E7%95%B0%E4%B8%96%E7%95%8C%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B%EF%BD%9E1.jpg" width="300px"> | [无职转生～到了异世界就拿出真本事～1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B%20-%20%E7%84%A1%E8%81%B7%E8%BD%89%E7%94%9F%EF%BD%9E%E5%88%B0%E4%BA%86%E7%95%B0%E4%B8%96%E7%95%8C%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B%EF%BD%9E1.pdf) |
 | <img alt="无职转生～到了异世界就拿出真本事～10" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B%20-%20%E7%84%A1%E8%81%B7%E8%BD%89%E7%94%9F%EF%BD%9E%E5%88%B0%E4%BA%86%E7%95%B0%E4%B8%96%E7%95%8C%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B%EF%BD%9E10.jpg" width="300px"> | [无职转生～到了异世界就拿出真本事～10.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B%20-%20%E7%84%A1%E8%81%B7%E8%BD%89%E7%94%9F%EF%BD%9E%E5%88%B0%E4%BA%86%E7%95%B0%E4%B8%96%E7%95%8C%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B%EF%BD%9E10.pdf) |
 | <img alt="无职转生～到了异世界就拿出真本事～11" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B%20-%20%E7%84%A1%E8%81%B7%E8%BD%89%E7%94%9F%EF%BD%9E%E5%88%B0%E4%BA%86%E7%95%B0%E4%B8%96%E7%95%8C%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B%EF%BD%9E11.jpg" width="300px"> | [无职转生～到了异世界就拿出真本事～11.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B/%E7%90%86%E4%B8%8D%E7%9B%A1%E3%81%AA%E5%AD%AB%E3%81%AE%E6%89%8B%20-%20%E7%84%A1%E8%81%B7%E8%BD%89%E7%94%9F%EF%BD%9E%E5%88%B0%E4%BA%86%E7%95%B0%E4%B8%96%E7%95%8C%E5%B0%B1%E6%8B%BF%E5%87%BA%E7%9C%9F%E6%9C%AC%E4%BA%8B%EF%BD%9E11.pdf) |
@@ -84,7 +84,7 @@
 ## 月夜淚
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="世界顶尖的暗杀者转生为异世界贵族1" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E4%B8%96%E7%95%8C%E9%A0%82%E5%B0%96%E7%9A%84%E6%9A%97%E6%AE%BA%E8%80%85%E8%BD%89%E7%94%9F%E7%82%BA%E7%95%B0%E4%B8%96%E7%95%8C%E8%B2%B4%E6%97%8F1.jpg" width="300px"> | [世界顶尖的暗杀者转生为异世界贵族1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E4%B8%96%E7%95%8C%E9%A0%82%E5%B0%96%E7%9A%84%E6%9A%97%E6%AE%BA%E8%80%85%E8%BD%89%E7%94%9F%E7%82%BA%E7%95%B0%E4%B8%96%E7%95%8C%E8%B2%B4%E6%97%8F1.pdf) |
 | <img alt="世界顶尖的暗杀者转生为异世界贵族2" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E4%B8%96%E7%95%8C%E9%A0%82%E5%B0%96%E7%9A%84%E6%9A%97%E6%AE%BA%E8%80%85%E8%BD%89%E7%94%9F%E7%82%BA%E7%95%B0%E4%B8%96%E7%95%8C%E8%B2%B4%E6%97%8F2.jpg" width="300px"> | [世界顶尖的暗杀者转生为异世界贵族2.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E4%B8%96%E7%95%8C%E9%A0%82%E5%B0%96%E7%9A%84%E6%9A%97%E6%AE%BA%E8%80%85%E8%BD%89%E7%94%9F%E7%82%BA%E7%95%B0%E4%B8%96%E7%95%8C%E8%B2%B4%E6%97%8F2.pdf) |
 | <img alt="世界顶尖的暗杀者转生为异世界贵族3" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E4%B8%96%E7%95%8C%E9%A0%82%E5%B0%96%E7%9A%84%E6%9A%97%E6%AE%BA%E8%80%85%E8%BD%89%E7%94%9F%E7%82%BA%E7%95%B0%E4%B8%96%E7%95%8C%E8%B2%B4%E6%97%8F3.jpg" width="300px"> | [世界顶尖的暗杀者转生为异世界贵族3.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%9C%88%E5%A4%9C%E6%B7%9A/%E6%9C%88%E5%A4%9C%E6%B7%9A%20-%20%E4%B8%96%E7%95%8C%E9%A0%82%E5%B0%96%E7%9A%84%E6%9A%97%E6%AE%BA%E8%80%85%E8%BD%89%E7%94%9F%E7%82%BA%E7%95%B0%E4%B8%96%E7%95%8C%E8%B2%B4%E6%97%8F3.pdf) |
@@ -104,7 +104,7 @@
 ## 川原砾
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="Sword Art Online 01" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%B7%9D%E5%8E%9F%E7%A0%BE/%E5%B7%9D%E5%8E%9F%E7%A0%BE%20-%20Sword%20Art%20Online%2001.jpg" width="300px"> | [Sword Art Online 01.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%B7%9D%E5%8E%9F%E7%A0%BE/%E5%B7%9D%E5%8E%9F%E7%A0%BE%20-%20Sword%20Art%20Online%2001.pdf) |
 | <img alt="Sword Art Online 02" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%B7%9D%E5%8E%9F%E7%A0%BE/%E5%B7%9D%E5%8E%9F%E7%A0%BE%20-%20Sword%20Art%20Online%2002.jpg" width="300px"> | [Sword Art Online 02.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%B7%9D%E5%8E%9F%E7%A0%BE/%E5%B7%9D%E5%8E%9F%E7%A0%BE%20-%20Sword%20Art%20Online%2002.pdf) |
 | <img alt="Sword Art Online 03 Fairy Dance I" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%B7%9D%E5%8E%9F%E7%A0%BE/%E5%B7%9D%E5%8E%9F%E7%A0%BE%20-%20Sword%20Art%20Online%2003%20Fairy%20Dance%20I.jpg" width="300px"> | [Sword Art Online 03 Fairy Dance I.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%B7%9D%E5%8E%9F%E7%A0%BE/%E5%B7%9D%E5%8E%9F%E7%A0%BE%20-%20Sword%20Art%20Online%2003%20Fairy%20Dance%20I.pdf) |
@@ -135,7 +135,7 @@
 ## 森田季节
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="持续狩猎史莱姆三百年，不知不觉就练到LV MAX 1" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82%20-%20%E6%8C%81%E7%BA%8C%E7%8B%A9%E7%8D%B5%E5%8F%B2%E8%90%8A%E5%A7%86%E4%B8%89%E7%99%BE%E5%B9%B4%EF%BC%8C%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A6%BA%E5%B0%B1%E7%B7%B4%E5%88%B0LV%20MAX%201.jpg" width="300px"> | [持续狩猎史莱姆三百年，不知不觉就练到LV MAX 1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82%20-%20%E6%8C%81%E7%BA%8C%E7%8B%A9%E7%8D%B5%E5%8F%B2%E8%90%8A%E5%A7%86%E4%B8%89%E7%99%BE%E5%B9%B4%EF%BC%8C%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A6%BA%E5%B0%B1%E7%B7%B4%E5%88%B0LV%20MAX%201.pdf) |
 | <img alt="持续狩猎史莱姆三百年，不知不觉就练到LV MAX 10" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82%20-%20%E6%8C%81%E7%BA%8C%E7%8B%A9%E7%8D%B5%E5%8F%B2%E8%90%8A%E5%A7%86%E4%B8%89%E7%99%BE%E5%B9%B4%EF%BC%8C%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A6%BA%E5%B0%B1%E7%B7%B4%E5%88%B0LV%20MAX%2010.jpg" width="300px"> | [持续狩猎史莱姆三百年，不知不觉就练到LV MAX 10.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82%20-%20%E6%8C%81%E7%BA%8C%E7%8B%A9%E7%8D%B5%E5%8F%B2%E8%90%8A%E5%A7%86%E4%B8%89%E7%99%BE%E5%B9%B4%EF%BC%8C%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A6%BA%E5%B0%B1%E7%B7%B4%E5%88%B0LV%20MAX%2010.pdf) |
 | <img alt="持续狩猎史莱姆三百年，不知不觉就练到LV MAX 11" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82%20-%20%E6%8C%81%E7%BA%8C%E7%8B%A9%E7%8D%B5%E5%8F%B2%E8%90%8A%E5%A7%86%E4%B8%89%E7%99%BE%E5%B9%B4%EF%BC%8C%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A6%BA%E5%B0%B1%E7%B7%B4%E5%88%B0LV%20MAX%2011.jpg" width="300px"> | [持续狩猎史莱姆三百年，不知不觉就练到LV MAX 11.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82/%E6%A3%AE%E7%94%B0%E5%AD%A3%E8%8A%82%20-%20%E6%8C%81%E7%BA%8C%E7%8B%A9%E7%8D%B5%E5%8F%B2%E8%90%8A%E5%A7%86%E4%B8%89%E7%99%BE%E5%B9%B4%EF%BC%8C%E4%B8%8D%E7%9F%A5%E4%B8%8D%E8%A6%BA%E5%B0%B1%E7%B7%B4%E5%88%B0LV%20MAX%2011.pdf) |
@@ -152,7 +152,7 @@
 ## 榎宫佑
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="游戏人生 01" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A6%8E%E5%AE%AB%E4%BD%91/%E6%A6%8E%E5%AE%AB%E4%BD%91%20-%20%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F%2001.jpg" width="300px"> | [游戏人生 01.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A6%8E%E5%AE%AB%E4%BD%91/%E6%A6%8E%E5%AE%AB%E4%BD%91%20-%20%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F%2001.pdf) |
 | <img alt="游戏人生 02" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A6%8E%E5%AE%AB%E4%BD%91/%E6%A6%8E%E5%AE%AB%E4%BD%91%20-%20%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F%2002.jpg" width="300px"> | [游戏人生 02.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A6%8E%E5%AE%AB%E4%BD%91/%E6%A6%8E%E5%AE%AB%E4%BD%91%20-%20%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F%2002.pdf) |
 | <img alt="游戏人生 03" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A6%8E%E5%AE%AB%E4%BD%91/%E6%A6%8E%E5%AE%AB%E4%BD%91%20-%20%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F%2003.jpg" width="300px"> | [游戏人生 03.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A6%8E%E5%AE%AB%E4%BD%91/%E6%A6%8E%E5%AE%AB%E4%BD%91%20-%20%E6%B8%B8%E6%88%8F%E4%BA%BA%E7%94%9F%2003.pdf) |
@@ -168,7 +168,7 @@
 ## 夕蜜柑
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="怕痛的我，把防御力点满就对了 01" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%A4%95%E8%9C%9C%E6%9F%91/%E5%A4%95%E8%9C%9C%E6%9F%91%20-%20%E6%80%95%E7%97%9B%E7%9A%84%E6%88%91%EF%BC%8C%E6%8A%8A%E9%98%B2%E7%A6%A6%E5%8A%9B%E9%BB%9E%E6%BB%BF%E5%B0%B1%E5%B0%8D%E4%BA%86%2001.jpg" width="300px"> | [怕痛的我，把防御力点满就对了 01.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%A4%95%E8%9C%9C%E6%9F%91/%E5%A4%95%E8%9C%9C%E6%9F%91%20-%20%E6%80%95%E7%97%9B%E7%9A%84%E6%88%91%EF%BC%8C%E6%8A%8A%E9%98%B2%E7%A6%A6%E5%8A%9B%E9%BB%9E%E6%BB%BF%E5%B0%B1%E5%B0%8D%E4%BA%86%2001.pdf) |
 | <img alt="怕痛的我，把防御力点满就对了 02" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%A4%95%E8%9C%9C%E6%9F%91/%E5%A4%95%E8%9C%9C%E6%9F%91%20-%20%E6%80%95%E7%97%9B%E7%9A%84%E6%88%91%EF%BC%8C%E6%8A%8A%E9%98%B2%E7%A6%A6%E5%8A%9B%E9%BB%9E%E6%BB%BF%E5%B0%B1%E5%B0%8D%E4%BA%86%2002.jpg" width="300px"> | [怕痛的我，把防御力点满就对了 02.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%A4%95%E8%9C%9C%E6%9F%91/%E5%A4%95%E8%9C%9C%E6%9F%91%20-%20%E6%80%95%E7%97%9B%E7%9A%84%E6%88%91%EF%BC%8C%E6%8A%8A%E9%98%B2%E7%A6%A6%E5%8A%9B%E9%BB%9E%E6%BB%BF%E5%B0%B1%E5%B0%8D%E4%BA%86%2002.pdf) |
 | <img alt="怕痛的我，把防御力点满就对了 03" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%A4%95%E8%9C%9C%E6%9F%91/%E5%A4%95%E8%9C%9C%E6%9F%91%20-%20%E6%80%95%E7%97%9B%E7%9A%84%E6%88%91%EF%BC%8C%E6%8A%8A%E9%98%B2%E7%A6%A6%E5%8A%9B%E9%BB%9E%E6%BB%BF%E5%B0%B1%E5%B0%8D%E4%BA%86%2003.jpg" width="300px"> | [怕痛的我，把防御力点满就对了 03.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%A4%95%E8%9C%9C%E6%9F%91/%E5%A4%95%E8%9C%9C%E6%9F%91%20-%20%E6%80%95%E7%97%9B%E7%9A%84%E6%88%91%EF%BC%8C%E6%8A%8A%E9%98%B2%E7%A6%A6%E5%8A%9B%E9%BB%9E%E6%BB%BF%E5%B0%B1%E5%B0%8D%E4%BA%86%2003.pdf) |
@@ -187,7 +187,7 @@
 ## 羊太郎
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="不正经的魔术讲师与禁忌教典 10" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%BE%8A%E5%A4%AA%E9%83%8E/%E7%BE%8A%E5%A4%AA%E9%83%8E%20-%20%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%AD%94%E6%9C%AF%E8%AE%B2%E5%B8%88%E4%B8%8E%E7%A6%81%E5%BF%8C%E6%95%99%E5%85%B8%2010.jpg" width="300px"> | [不正经的魔术讲师与禁忌教典 10.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%BE%8A%E5%A4%AA%E9%83%8E/%E7%BE%8A%E5%A4%AA%E9%83%8E%20-%20%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%AD%94%E6%9C%AF%E8%AE%B2%E5%B8%88%E4%B8%8E%E7%A6%81%E5%BF%8C%E6%95%99%E5%85%B8%2010.pdf) |
 | <img alt="不正经的魔术讲师与禁忌教典 11" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%BE%8A%E5%A4%AA%E9%83%8E/%E7%BE%8A%E5%A4%AA%E9%83%8E%20-%20%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%AD%94%E6%9C%AF%E8%AE%B2%E5%B8%88%E4%B8%8E%E7%A6%81%E5%BF%8C%E6%95%99%E5%85%B8%2011.jpg" width="300px"> | [不正经的魔术讲师与禁忌教典 11.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%BE%8A%E5%A4%AA%E9%83%8E/%E7%BE%8A%E5%A4%AA%E9%83%8E%20-%20%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%AD%94%E6%9C%AF%E8%AE%B2%E5%B8%88%E4%B8%8E%E7%A6%81%E5%BF%8C%E6%95%99%E5%85%B8%2011.pdf) |
 | <img alt="不正经的魔术讲师与禁忌教典 12" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%BE%8A%E5%A4%AA%E9%83%8E/%E7%BE%8A%E5%A4%AA%E9%83%8E%20-%20%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%AD%94%E6%9C%AF%E8%AE%B2%E5%B8%88%E4%B8%8E%E7%A6%81%E5%BF%8C%E6%95%99%E5%85%B8%2012.jpg" width="300px"> | [不正经的魔术讲师与禁忌教典 12.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%BE%8A%E5%A4%AA%E9%83%8E/%E7%BE%8A%E5%A4%AA%E9%83%8E%20-%20%E4%B8%8D%E6%AD%A3%E7%BB%8F%E7%9A%84%E9%AD%94%E6%9C%AF%E8%AE%B2%E5%B8%88%E4%B8%8E%E7%A6%81%E5%BF%8C%E6%95%99%E5%85%B8%2012.pdf) |
@@ -208,7 +208,7 @@
 ## 安里アサト
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="86-不存在的战区- Ep.1" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.1.jpg" width="300px"> | [86-不存在的战区- Ep.1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.1.pdf) |
 | <img alt="86-不存在的战区- Ep.10 -早熟的碎片-" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.10%20-%E6%97%A9%E7%86%9F%E7%9A%84%E7%A2%8E%E7%89%87-.jpg" width="300px"> | [86-不存在的战区- Ep.10 -早熟的碎片-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.10%20-%E6%97%A9%E7%86%9F%E7%9A%84%E7%A2%8E%E7%89%87-.pdf) |
 | <img alt="86-不存在的战区- Ep.11 -Dies passionis-" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.11%20-Dies%20passionis-.jpg" width="300px"> | [86-不存在的战区- Ep.11 -Dies passionis-.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88/%E5%AE%89%E9%87%8C%E3%82%A2%E3%82%B5%E3%83%88%20-%2086-%E4%B8%8D%E5%AD%98%E5%9C%A8%E7%9A%84%E6%88%B0%E5%8D%80-%20Ep.11%20-Dies%20passionis-.pdf) |
@@ -224,7 +224,7 @@
 ## 棚架ユウ
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="转生就是剑 1" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%201.jpg" width="300px"> | [转生就是剑 1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%201.pdf) |
 | <img alt="转生就是剑 2" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%202.jpg" width="300px"> | [转生就是剑 2.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%202.pdf) |
 | <img alt="转生就是剑 3" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%203.jpg" width="300px"> | [转生就是剑 3.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6/%E6%A3%9A%E6%9E%B6%E3%83%A6%E3%82%A6%20-%20%E8%BD%89%E7%94%9F%E5%B0%B1%E6%98%AF%E5%8A%8D%203.pdf) |
@@ -234,7 +234,7 @@
 ## 竹町
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="间谍教室 1“花园”百合" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%AB%B9%E7%94%BA/%E7%AB%B9%E7%94%BA%20-%20%E9%96%93%E8%AB%9C%E6%95%99%E5%AE%A4%201%E3%80%8C%E8%8A%B1%E5%9C%92%E3%80%8D%E7%99%BE%E5%90%88.jpg" width="300px"> | [间谍教室 1“花园”百合.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%AB%B9%E7%94%BA/%E7%AB%B9%E7%94%BA%20-%20%E9%96%93%E8%AB%9C%E6%95%99%E5%AE%A4%201%E3%80%8C%E8%8A%B1%E5%9C%92%E3%80%8D%E7%99%BE%E5%90%88.pdf) |
 | <img alt="间谍教室 2“爱娘”葛蕾特" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%AB%B9%E7%94%BA/%E7%AB%B9%E7%94%BA%20-%20%E9%96%93%E8%AB%9C%E6%95%99%E5%AE%A4%202%E3%80%8C%E6%84%9B%E5%A8%98%E3%80%8D%E8%91%9B%E8%95%BE%E7%89%B9.jpg" width="300px"> | [间谍教室 2“爱娘”葛蕾特.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%AB%B9%E7%94%BA/%E7%AB%B9%E7%94%BA%20-%20%E9%96%93%E8%AB%9C%E6%95%99%E5%AE%A4%202%E3%80%8C%E6%84%9B%E5%A8%98%E3%80%8D%E8%91%9B%E8%95%BE%E7%89%B9.pdf) |
 | <img alt="间谍教室 3“忘我”安妮特" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%AB%B9%E7%94%BA/%E7%AB%B9%E7%94%BA%20-%20%E9%96%93%E8%AB%9C%E6%95%99%E5%AE%A4%203%E3%80%8C%E5%BF%98%E6%88%91%E3%80%8D%E5%AE%89%E5%A6%AE%E7%89%B9.jpg" width="300px"> | [间谍教室 3“忘我”安妮特.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%AB%B9%E7%94%BA/%E7%AB%B9%E7%94%BA%20-%20%E9%96%93%E8%AB%9C%E6%95%99%E5%AE%A4%203%E3%80%8C%E5%BF%98%E6%88%91%E3%80%8D%E5%AE%89%E5%A6%AE%E7%89%B9.pdf) |
@@ -242,7 +242,7 @@
 ## 长月达平
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="Re：从零开始的异世界生活 1" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3%20-%20Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%201.jpg" width="300px"> | [Re：从零开始的异世界生活 1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3%20-%20Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%201.pdf) |
 | <img alt="Re：从零开始的异世界生活 10" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3%20-%20Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%2010.jpg" width="300px"> | [Re：从零开始的异世界生活 10.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3%20-%20Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%2010.pdf) |
 | <img alt="Re：从零开始的异世界生活 11" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3%20-%20Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%2011.jpg" width="300px"> | [Re：从零开始的异世界生活 11.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3/%E9%95%BF%E6%9C%88%E8%BE%BE%E5%B9%B3%20-%20Re%EF%BC%9A%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E5%BC%82%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB%2011.pdf) |
@@ -269,7 +269,7 @@
 ## 逢沢大介
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="我想成为影之强者！1" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B%20-%20%E6%88%91%E6%83%B3%E6%88%90%E7%82%BA%E5%BD%B1%E4%B9%8B%E5%BC%B7%E8%80%85%EF%BC%811.jpg" width="300px"> | [我想成为影之强者！1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B%20-%20%E6%88%91%E6%83%B3%E6%88%90%E7%82%BA%E5%BD%B1%E4%B9%8B%E5%BC%B7%E8%80%85%EF%BC%811.pdf) |
 | <img alt="我想成为影之强者！2" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B%20-%20%E6%88%91%E6%83%B3%E6%88%90%E7%82%BA%E5%BD%B1%E4%B9%8B%E5%BC%B7%E8%80%85%EF%BC%812.jpg" width="300px"> | [我想成为影之强者！2.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B%20-%20%E6%88%91%E6%83%B3%E6%88%90%E7%82%BA%E5%BD%B1%E4%B9%8B%E5%BC%B7%E8%80%85%EF%BC%812.pdf) |
 | <img alt="我想成为影之强者！3" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B%20-%20%E6%88%91%E6%83%B3%E6%88%90%E7%82%BA%E5%BD%B1%E4%B9%8B%E5%BC%B7%E8%80%85%EF%BC%813.jpg" width="300px"> | [我想成为影之强者！3.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B/%E9%80%A2%E6%B2%A2%E5%A4%A7%E4%BB%8B%20-%20%E6%88%91%E6%83%B3%E6%88%90%E7%82%BA%E5%BD%B1%E4%B9%8B%E5%BC%B7%E8%80%85%EF%BC%813.pdf) |
@@ -278,7 +278,7 @@
 ## 白石定規
 
 | 封面 | 书籍 |
-| ---- | ---- |
+| ----- | ----- |
 | <img alt="魔女之旅 1" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F%20-%20%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%201.jpg" width="300px"> | [魔女之旅 1.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F%20-%20%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%201.pdf) |
 | <img alt="魔女之旅 10" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F%20-%20%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%2010.jpg" width="300px"> | [魔女之旅 10.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F%20-%20%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%2010.pdf) |
 | <img alt="魔女之旅 11" src="https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F%20-%20%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%2011.jpg" width="300px"> | [魔女之旅 11.pdf](https://lightnovels.github.io/?file=https://cdn.bilicdn.tk/gh/LightNovels/Home@novels/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F/%E7%99%BD%E7%9F%B3%E5%AE%9A%E8%A6%8F%20-%20%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85%2011.pdf) |
